@@ -100,6 +100,28 @@ RainToday
 
 # 📈 Evaluation Metrics
 
+---
+
+# 📷 Project Visualizations
+
+## 🔄 Machine Learning Pipeline
+
+![Machine Learning Pipeline](random_forest_pipeline.png)
+
+---
+
+## 📊 Random Forest Confusion Matrix
+
+![Random Forest Confusion Matrix](random_forest_confusion_matrix.png)
+
+---
+
+## 📈 Feature Importance
+
+![Feature Importance](feature_importance_plot.png)
+
+---
+
 The models were evaluated using:
 
 - Accuracy
